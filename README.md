@@ -15,7 +15,7 @@ A curiosidade de ver como aplicações funcionavam me fizeram estudar programaç
 
 ## Habilidades
 
-* Javascript (ES6+) (Intermediário)
+* Javascript (Intermediário)
 * PHP (Básico)
 * HTML (Básico)
 * CSS (Básico)
